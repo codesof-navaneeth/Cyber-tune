@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">CYBER//TUNE</string>
+    <string name="title_activity_main">CYBER//TUNE</string>
+    <string name="package_name">com.navaneeth.cybertune</string>
+    <string name="custom_url_scheme">com.navaneeth.cybertune</string>
+</resources>
